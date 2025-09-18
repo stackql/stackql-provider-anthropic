@@ -7,8 +7,8 @@
 import {themes as prismThemes} from 'prism-react-renderer';
 
 // Provider configuration - change these for different providers
-const providerName = "yourprovidername";
-const providerTitle = "Your Provider Title";
+const providerName = "anthropic"; // the provider name in lowercase, used for URLs and file paths
+const providerTitle = "Anthropic";
 
 const providerDropDownListItems = [
   {
